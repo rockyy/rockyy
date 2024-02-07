@@ -11,7 +11,8 @@
 - 🌏 I live in Delhi, India
 - 🔭 I like to explore new things, new places, new views, new people
 - 👀 I’m interested in contributing to open-source
-
+- 💬 Ask me about: Building a mobile app from scratch, Code & Architecture
+- 👯 I’m looking to collaborate on JavaScript, React Native & Tech Entrepreneurship
 
 
 ### Languages
