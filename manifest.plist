@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://tfs.indusind.com/tfs/MobileApps/d6531013-d67e-49fb-b601-3fc5d180880f/_apis/git/repositories/a95a420d-1356-41eb-a613-a18217fc254e/items?path=/ios/0.3.3/IndusDirect-v0.3.3.ipa&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=release-dev&resolveLfs=true&%24format=octetStream&api-version=5.0&download=true</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.indusind.corporate</string>
+        <key>bundle-version</key>
+        <string>4.1.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>IndusDIRECT Corporate</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
